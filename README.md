@@ -13,6 +13,7 @@ There are around 22 fablabs in kerala Mes college of engineering,Kuttippuram is 
 
 ## 3D Printer
 3D printer is a machine allowing the creation of a physical object from a three-dimensional digital model, typically by laying down many thin layers of a material in succession. 3D printer made by Ultimaker is use in mesce fab lab.
+
 <img src="3d.jpg" height="600" width="600">
 
 ## Laser Cutting Machine
@@ -20,8 +21,10 @@ For laser cutting, we design 2D dwawings using RHINOCEROS ,SKETCHUP, SOLIDWORKS 
 
 ## PCB Milling Machine
 Printed circuit board milling (also: isolation milling) is the process of removing areas of copper from a sheet of printed circuit board material to recreate the pads, signal traces and structures according to patterns from a digital circuit board plan known as a layout file.
+
 <img src="pcb.jpg" height="600" width="600">
 
 ## Vinyl Cutting Machine
 A vinyl cutter is a type of computer-controlled machine. Small vinyl cutters look like computer printers. The computer control the movement of a sharp blade. This blade is used to cut out shapes and letters from sheets of thin self-adhesive plastic (vinyl).
+
 <img src="vinyl.jpg" height="600" width="600">
